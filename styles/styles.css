@@ -8,6 +8,8 @@ font-family: 'Merriweather', serif;
     padding: 0;
 }
 
+
+
 /* First Section */
 
 .header {
@@ -19,7 +21,7 @@ font-family: 'Merriweather', serif;
     margin-top: 48px;
 }
 
-.banner {       /* div */
+.banner-1 {       /* div */
     color: #FFF;
     font-family: 'Merriweather', serif;
     text-align: center;
@@ -40,3 +42,31 @@ font-family: 'Merriweather', serif;
 
 
 
+/* Second Section */
+
+.banner-2 {
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+}
+
+.title-1 {      /* 65% OFF */
+    color: #F00;
+    font-size: 88px;
+    font-weight: 700;
+    margin-top: 120px;
+    margin-bottom: 48px;
+}
+
+.title-2 {      /* OUR HOLIDAY DEALS ARE BETTER */
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.title-3 {      /* ALL CATEGORIES */
+    color: #070211;
+    font-size: 48px;
+    font-weight: 700;
+    margin-top: 16px;
+    margin-bottom: 48px;
+}
