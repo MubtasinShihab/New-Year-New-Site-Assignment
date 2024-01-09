@@ -72,6 +72,7 @@ font-family: 'Merriweather', serif;
 }
 
 
+
 /* Third Section */
 
 .banner-3{
@@ -86,7 +87,7 @@ font-family: 'Merriweather', serif;
 
 .party-welcome {
     color: #FFF;
-    font-family: Merriweather;
+    font-family: 'Merriweather', serif;
     font-size: 64px;
     font-weight: 900;
     letter-spacing: 7.04px;
@@ -99,7 +100,7 @@ font-family: 'Merriweather', serif;
 
 .party-description {
     color: rgba(255, 255, 255, 0.80);
-    font-family: Inter;
+    font-family: 'Inter', sans-serif;
     font-size: 18px;
     font-weight: 400;
     width: 697px;
@@ -111,23 +112,152 @@ font-family: 'Merriweather', serif;
 .button {
     color: #FFF;
     background-color: transparent;
-    font-family: Inter;
+    font-family: 'Inter', sans-serif;
     font-size: 20px;
     font-weight: 700;
     padding-left: 158px;
     border: 0px;
 }
 
+/* .button:hover {
+    background-color:dimgray;
+    border: 0px;
+    position:static;
+    width: 170px;
+    height: 50px;
+    border-radius: 3px;
+    margin: auto;
+    padding: 10px;
+} */
+
 .img-2024 {
     padding-top: 68px;
     padding-left: 39px;
 }
 
-.img-2024 img {
+/* .img-2024 img {
     mix-blend-mode: lighten;
-}
+} */
 
 
 
 /* Fourth Section */
+
+.banner-4 {
+    background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    width: 1320px;
+    height: 482px;
+    margin: auto;
+    margin-top: 120px;
+    border-radius: 16px;
+    padding-top: 100px;
+}
+
+.place-date-time {
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 56px;
+}
+
+.place-date-time span {
+    color: #F00;
+}
+
+.join-now-button {
+    text-align: center;
+    margin-top: 48px;
+}
+
+.red-join-now-button {
+    color: #FFF;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 16px 32px;
+    border: 0px;
+    border-radius: 8px;
+    background: #F00;
+}
+
+
+
+/* fifth section */
+
+.banner-5 {
+    background: #fff;
+    width: 1320px;
+    height: 463px;
+    display: flex;
+    margin: auto;
+    margin-top: 120px;
+}
+
+.column-1{
+    max-width: 393px;
+    margin-right: 70px;
+}
+
+.new-offer {
+    color: #F00;
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 104px;
+    margin-bottom: 16px;
+}
+
+.coming-soon {
+    color: #070211;
+    font-family: 'Merriweather', serif;
+    font-size: 48px;
+    font-weight: 900;
+    margin-bottom: 22px;
+}
+
+.banner-5-description {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+.column-2 img {
+    padding: 34px;
+    width: 364px;
+    height: 364px;
+    border-radius: 463px;
+    border: 15px solid #F00;
+}
+
+.column-3 {
+    max-width: 276px;
+    margin-left: 118px;
+}
+
+.column-3-2024 {
+    color: #F00;
+    font-family: 'Inter', sans-serif;
+    font-size: 48px;
+    font-weight: 700;
+    margin-top: 104px;
+    margin-bottom: 16px;
+}
+
+.column-3-description {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    margin-bottom: 43px;
+}
+
+
+
+/* Sixth Section */
 
