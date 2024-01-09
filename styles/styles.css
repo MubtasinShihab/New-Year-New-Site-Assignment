@@ -169,6 +169,7 @@ font-family: 'Merriweather', serif;
 .join-now-button {
     text-align: center;
     margin-top: 48px;
+    border: 0px;
 }
 
 .red-join-now-button {
@@ -261,3 +262,272 @@ font-family: 'Merriweather', serif;
 
 /* Sixth Section */
 
+.sale-text{
+    margin: auto;
+    margin-top: 120px;
+    text-align: center;
+    max-width: 1068px;
+}
+
+.functional{
+    color: #070211;
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 16px;
+}
+
+.sale span{
+    color: #F00;
+}
+
+.sale{
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 72px;
+    font-weight: 900;
+    margin-bottom: 28px;
+}
+
+.banner-6-description{
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px;
+    margin-bottom: 64px;
+}
+
+
+
+/* Seventh Section */
+
+.box {
+    height: 200px;
+    width: 360px;
+    z-index: 1;
+    margin-bottom: 120px;
+    margin-left: 200px;
+}
+
+.discount-shopping{
+   
+    display: flex;
+    margin-left: 308px;
+    align-items: center;
+    justify-content: center;
+}
+
+.discount {
+    position: relative;
+    left: 20%;
+}
+
+.red-bar {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.banner-7-img {
+    display: flex;
+
+    align-items: center;
+
+}
+
+
+
+/* Eight Section */
+
+.banner-8 {
+    background-color: #FFF;
+    width: 1350px;
+    height: 1163px;
+    margin: auto;
+    margin-top: 120px;
+}
+
+.gifts{
+    color: #F00;
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-bottom: 16px;
+}
+
+.portfolio {
+    color: #070211;
+    font-family: 'Merriweather', serif;
+    font-size: 48px;    
+    font-weight: 900;
+}
+
+.banner-8-description {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    width: 896px;
+    margin-top: 22px;
+    margin-bottom: 48px;
+}
+
+.images img{
+    margin-right: 13px;
+    margin-bottom: 13px;
+}
+
+.img-hover:hover{
+    border: 2px solid darkgrey;
+    border-radius: 16px;
+    box-shadow: 3px 3px 5px 5px;
+}
+
+
+
+/* Ninth Section */
+
+.banner-9 {
+    background: rgba(255, 0, 0, 0.05);
+    border-radius: 16px;
+    width: 1320px;
+    height: 616px;
+    margin: auto;
+    margin-top: 120px;
+    margin-bottom: 120px;
+    text-align: center;
+}
+
+.mail-image{
+    padding-top: 80px;
+    padding-bottom: 40px;
+}
+
+.email input{
+    width: 438px;
+    height: 72px;
+    border: 0px;
+    border-radius: 50px 0px 0px 50px;
+    background: #FFF;
+}
+
+.newsletter{
+    color: #070211;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 48px;
+    font-weight: 900;
+    padding-bottom: 22px;
+}
+
+.banner-9-description{
+    width: 896px;
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    padding-left: 212px;
+    padding-bottom: 48px;
+}
+
+.sub-button button{
+    color: #FFF;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    width: 210px;
+    height: 72px;
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    border: 0;
+}
+
+.email-portal{
+    display: flex;
+    padding-left: 336px;
+}
+
+input[type=email]{
+    color: rgba(7, 2, 17, 0.30);
+    padding-left: 30px;
+    /* text-align: center; */
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+
+
+/* Footer */
+
+.footer{
+    background: #070211;
+    width: 1600px;
+    height: 609px;
+    margin: auto;
+}
+
+.address-contact, .copyright-unsubscribe{
+    color: #FFF;
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    display: flex;
+}
+
+.address{
+    padding-top: 120px;
+    padding-left: 140px;
+    max-width: 375px;
+}
+
+.contact{
+    padding-top: 120px;
+    padding-right: 260px;
+    padding-left: 580px;
+}
+
+.phone-no{
+    max-width: 195px;
+}
+
+hr{
+    width: 1320px;
+    height: 0px;
+    margin: auto;
+    color: rgba(255, 255, 255, 0.15);
+}
+
+.hr1{
+    margin-top: 50px;
+}
+
+.logos{
+    text-align: center;
+    padding-top: 48px;
+    padding-bottom: 48px;
+}
+
+.logos img{
+    padding-right: 24px;
+}
+
+.copyright{
+    padding-top: 50px;
+    padding-left: 140px;
+}
+
+.unsubscribe{
+    padding-top: 50px;
+    padding-left: 880px;
+}
