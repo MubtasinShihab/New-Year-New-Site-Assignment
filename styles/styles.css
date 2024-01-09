@@ -1,13 +1,7 @@
-/* 
-font-family: 'Inter', sans-serif;
-font-family: 'Merriweather', serif;
-*/
-
 *{
     margin: 0;
     padding: 0;
 }
-
 
 
 /* First Section */
@@ -115,20 +109,17 @@ font-family: 'Merriweather', serif;
     font-family: 'Inter', sans-serif;
     font-size: 20px;
     font-weight: 700;
-    padding-left: 158px;
+    margin-left: 158px;
     border: 0px;
 }
 
-/* .button:hover {
+.button:hover {
     background-color:dimgray;
     border: 0px;
-    position:static;
     width: 170px;
     height: 50px;
     border-radius: 3px;
-    margin: auto;
-    padding: 10px;
-} */
+}
 
 .img-2024 {
     padding-top: 68px;
@@ -312,10 +303,9 @@ font-family: 'Merriweather', serif;
     margin-left: 200px;
 }
 
-.discount-shopping{
-   
+.discount-shopping{   
     display: flex;
-    margin-left: 308px;
+    margin-left: 316px;
     align-items: center;
     justify-content: center;
 }
@@ -334,9 +324,7 @@ font-family: 'Merriweather', serif;
 
 .banner-7-img {
     display: flex;
-
     align-items: center;
-
 }
 
 
